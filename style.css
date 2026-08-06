@@ -169,6 +169,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #dc3545;
     transition: color 0.3s ease;
 }
+.single_product{
+  max-width: 300px;
+  margin: auto;
+}
+.product_img img{
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
     </style>
   </head>
   </html>
